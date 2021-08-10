@@ -124,7 +124,7 @@ int main()
     }
     // Verifica se a chave esta presente na Trie
     if (checkPresent(root, key)) {
-        cout << "YES";
+        cout << "SIM";
     }
     return 0;
 }
